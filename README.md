@@ -1,5 +1,5 @@
 # Learn-python-the-hard-way
-My not so impresive almost complete code convoy of Zed's book.
+My not so impresive code convoy of Zed's book.
 
 ## Table Of Contents
 * [Preface](https://learnpythonthehardway.org/python3/preface.html)
